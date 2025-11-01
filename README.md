@@ -3,7 +3,10 @@
 EX1
 
 
-https://github.com/user-attachments/assets/1804322f-577c-4bf8-bbcc-80883ae08e85
+https://github.com/user-attachments/assets/3f211380-68a7-41ee-a7be-b65419f080dd
+
+
+
 <img width="1440" height="900" alt="Screenshot 2025-11-01 at 8 08 45 PM" src="https://github.com/user-attachments/assets/85fd721d-84ed-4885-a841-583d4a31773e" />
 
 
