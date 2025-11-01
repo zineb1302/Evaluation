@@ -2,12 +2,16 @@
 
 EX1
 
-https://github.com/user-attachments/assets/2b1f4635-d680-46bb-8854-93a12d6889e9
+
+https://github.com/user-attachments/assets/1804322f-577c-4bf8-bbcc-80883ae08e85
 <img width="1440" height="900" alt="Screenshot 2025-11-01 at 8 08 45 PM" src="https://github.com/user-attachments/assets/85fd721d-84ed-4885-a841-583d4a31773e" />
 
 
 EX2 
-https://github.com/user-attachments/assets/22162780-ebf4-4e36-9759-c902b610b067
+
+
+https://github.com/user-attachments/assets/88908e38-768b-46fc-9664-8c1acb533f11
+
 <img width="1440" height="900" alt="Screenshot 2025-11-01 at 8 07 29 PM" src="https://github.com/user-attachments/assets/f972f30c-ee82-4f41-981f-52b16fe88aab" />
 <img width="1440" height="900" alt="Screenshot 2025-11-01 at 8 08 02 PM" src="https://github.com/user-attachments/assets/3e7a2a7f-d89b-46d5-a05c-468793cda75d" />
 <img width="1440" height="900" alt="Screenshot 2025-11-01 at 8 08 45 PM" src="https://github.com/user-attachments/assets/cc2502c6-887c-4f5d-b6c3-293023716ac2" />
